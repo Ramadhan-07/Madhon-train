@@ -1,0 +1,4 @@
+Madhon data
+- Mengupload data di github
+- Mengedit data menggunakan github dan git
+- Membuat project
