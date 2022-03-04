@@ -2,7 +2,9 @@ RENCANA KONTEN
 - javascript
   * ES6
   * Network 
+   Angular
+   React
 - php framework
+  Laravel
 - interview
 - vlogs
-- Struktur data dasar
